@@ -15,13 +15,17 @@ This repository contains a simple number guessing game implemented in C. The gam
 1. Clone or download this repository to your local machine.
 2. Navigate to the directory containing the project.
 3. Compile the source code using a C compiler (e.g., gcc).
+
     ```
     gcc -o number_guessing number_guessing.c
     ```
+
 4. Run the compiled executable.
+
     ```
     ./number_guessing
     ```
+
 5. Follow the instructions to input your guess.
 6. Receive feedback on whether your guess is too high, too low, or correct.
 7. Keep guessing until you either run out of attempts or guess the correct number.
@@ -33,11 +37,14 @@ This repository contains a simple number guessing game implemented in C. The gam
 
 ## Usage
 
-- To compile the source code: 
+- To compile the source code:
+
     ```
     gcc -o number_guessing number_guessing.c
     ```
+
 - To run the compiled executable:
+
     ```
     ./number_guessing
     ```
